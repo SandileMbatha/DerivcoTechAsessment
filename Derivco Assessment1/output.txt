@@ -1,0 +1,29 @@
+zack matches lisa 96%, Good Match
+siyanda matches trini 91%, Good Match
+terry matches kimbery 82%, Good Match
+jason matches lenya 80%, Good Match
+david matches billy 71%
+billy matches esther 63%
+tommy matches samke 62%
+jack matches jill 60%
+sandile matches rosanne 21%
+===================================REVERSE ORDER============================================
+jill matches jack 96%, Good Match
+lenya matches jason 80%, Good Match
+kimbery matches terry 73%
+esther matches billy 72%
+billy matches david 71%
+samke matches tommy 62%
+lisa matches zack 60%
+trini matches siyanda 55%
+rosanne matches sandile 21%
+======================================AVERAGE=================================================
+lenya and jason,  Average = 80 Good Match
+lisa and zack,  Average = 78
+jill and jack,  Average = 78
+kimbery and terry,  Average = 77
+trini and siyanda,  Average = 73
+billy and david,  Average = 71
+esther and billy,  Average = 67
+samke and tommy,  Average = 62
+rosanne and sandile,  Average = 21
